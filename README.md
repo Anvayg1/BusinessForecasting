@@ -1,7 +1,7 @@
 # BusinessForecasting
 
 1. What are you forecasting and why?
-forecasting demand for a subset of hair care products that are sourced from a distribution center in Whittier, CA. The distribution leads need an accurate forecast to adequately and effectively plan labor for the upcoming months.
+We are forecasting demand for a subset of hair care products that are sourced from a distribution center in Whittier, CA. The distribution leads need an accurate forecast to adequately and effectively plan labor for the upcoming months.
 
 2. Be specific on your forecast out. Point, Range, Short, Medium, Long,
 The desired output of the forecast will help plan labor for the first half of 2022 (Jan-Jun 2022)
